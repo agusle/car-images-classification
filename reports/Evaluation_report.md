@@ -57,8 +57,8 @@ As expected, some optimization techniques worked on data while others did not. I
 The best results come from **experiment #11 where validation accuracy reach 81.32%, and a minimum validation loss 0.8807**.
 To report the accuracy and loss, I used [Tensorboard](https://www.tensorflow.org/tensorboard?hl=es-419). It can track and visualize loss and accuracy metrics during training and after it. The possibility to see these variables "on live" helps to identify some problems early.
 
-![epoch_accuracy_exp_11](epoch_accuracy_exp_11.jpg)
-![epoch_accuracy_exp_11](epoch_loss_exp_11.jpg)
+![epoch_accuracy_exp_11]([epoch_accuracy_exp_11.jpg](https://github.com/agusle/car-images-classification/blob/main/notebooks/epoch_accuracy_exp_11.jpg))
+![epoch_accuracy_exp_11]([epoch_loss_exp_11.jpg](https://github.com/agusle/car-images-classification/blob/main/notebooks/epoch_loss_exp_11.jpg))
 
 During the evaluation of all experiments I can conclude that the following data, model and compile configuration helped train, validation and test accuracy reach and acceptable level: 
 
