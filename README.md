@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300>
+    <img src="https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 400>
 </p>
 
 <p align="center">
