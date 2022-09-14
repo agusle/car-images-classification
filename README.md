@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/agusle/car-images-classification/blob/main/img/project-logo.PNG" width = 400 height = 300>
+    <img src="https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300>
 </p>
 
 <p align="center">
@@ -72,7 +72,6 @@ $ pytest tests/
 ------------------
 
 ## 👀 Usage
-
 
 ### 1. Prepare your data
 
